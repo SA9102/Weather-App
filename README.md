@@ -1,4 +1,4 @@
-# Weather and Forecast
+# Weather App
 
 A program that returns the current weather and forecast for a given location anywhere in the world, placed in a simple and responsive interface made with React and Chakra UI.
 
@@ -9,6 +9,8 @@ You can also alternate between light mode and dark mode.
 This program uses the Free tier of APIs.
 
 NOTE: Due to responsiveness issues, you cannot view the forecasts if the screen width is shorter than 680px (vertical orientation on most mobile devices).
+
+[View this project on GitHub pages.](http://SA9102.github.io/Weather-App)
 
 # Getting Started with Create React App
 
